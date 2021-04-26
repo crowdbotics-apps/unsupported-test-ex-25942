@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@modules/app-menu": "file:./modules/app-menu"
+    "@modules/app-menu": "file:./modules/app-menu",
+    "@modules/onboarding": "file:./modules/onboarding"
   }
 }
