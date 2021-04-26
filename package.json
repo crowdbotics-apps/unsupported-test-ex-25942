@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu",
-    "@modules/onboarding": "file:./modules/onboarding"
+    "@modules/onboarding": "file:./modules/onboarding",
+    "@modules/user-profile": "file:./modules/user-profile"
   }
 }
